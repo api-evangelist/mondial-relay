@@ -64,15 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mondial Relay is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+Mondial Relay provides parcel delivery and locker services across Europe, operating a dense network of over 12,000 lockers and 94,500 pickup points. It offers e‑livraison solutions for both consumers and e‑commerce merchants, enabling flexible parcel sending, tracking, and collection through its web portal and mobile apps. The company focuses on reliable, simple, and convenient logistics for shipments within France and across European markets.
 
-**Areas:** Company
+**Areas:** Company · Logistics · Parcel Delivery · E‑commerce · Europe
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://mondialrelay.com/)
+- [Security](https://vdp.inpost.pl/p/Policy?lang=en-gb)
+
+**APIs profiled:** 2
 
 ## API Evangelist rating
 
